@@ -8,12 +8,53 @@ body{
     background-color: black;
     text-align: center;
     color: white;
-    
+
+
+
 }
 
 #camp, #icon{
     display: block;
     margin: auto;
+    padding: 30px;
+
+}
 
 
+header h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    padding: 50px;
+
+
+
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+
+}
+
+main h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42;
+    font-weight: 300;
+    padding: 50px;
+    
+}
+
+main p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    padding: 50px;
+
+
+}
+
+
+footer p {
+    float: right;
+    padding: 40px;
 }
